@@ -4,4 +4,22 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VR/VRLayer.unity
+    guid: c8ebbcd7767b0c9439c717150a3f36e2
+  - enabled: 1
+    path: Assets/Scenes/Game/FishGuide.unity
+    guid: b4e32c4234cae1b44a3a40af6f4d3159
+  - enabled: 1
+    path: Assets/Scenes/Game/MainGame.unity
+    guid: 75b67ad9314e4ed44be59734e8ca4052
+  - enabled: 1
+    path: Assets/Scenes/Game/Ranking.unity
+    guid: 7ed9b627004ce4748996ecff0bb1e0be
+  - enabled: 1
+    path: Assets/Scenes/Game/Title.unity
+    guid: e87d5225830eb1f4bae3f69f4e419d13
+  - enabled: 1
+    path: Assets/Scenes/Game/Tutorial.unity
+    guid: 54e99ac0d7032b94fa28dc77ad70d9b7
